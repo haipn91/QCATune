@@ -5,7 +5,7 @@ This repository introduces a novel framework, QCA (Question-Context-Answer) fine
 
 ## Directory Structure
 
-QAC_fine_tuning/
+QCATune/
 ├── data_preparation/
 ├── Raw_data/
 ├── Synthetic_data_generation/
