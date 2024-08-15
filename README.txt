@@ -1,5 +1,4 @@
-# QCA Fine-Tuning Framework for Legal Document Retrieval
-
+# QCATune: A Question-Context-Answer Fine-tuning Framework for Enhancing Legal Document Retrieval
 Legal document retrieval is a complex and essential task within the legal domain, requiring the extraction of relevant legal documents based on specific questions. The complexity of legal texts, along with the high level of comprehension required, poses significant challenges. These challenges are particularly pronounced in low-resource languages and specialized domains, where data scarcity and linguistic nuances impede effective retrieval. 
 
 This repository introduces a novel framework, QCA (Question-Context-Answer) fine-tuning, which includes two approaches: QC-QA fine-tuning and QC-QA-AC fine-tuning. 
