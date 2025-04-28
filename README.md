@@ -6,45 +6,75 @@ This repository introduces a novel framework, QCA (Question-Context-Answer) fine
 ## Directory Structure
 
 QCATune/
+
 ├── data_preparation/
+
 ├── Raw_data/
+
 ├── Synthetic_data_generation/
+
 ├── data_rag/
+
 │ │ ├── vibilaw/
+
 │ │ ├── coling2020/
+
 │ │ ├── zalo2021/
+
 ├── results/
+
 │ ├── results_vibilaw/
+
 │ │ ├── model1_alpha_beta/
+
 │ │ │ ├── epoch_1/
+
 │ │ │ ├── epoch_2/
-│ │ │ ├── epoch_3/
-│ │ │ ├── epoch_4/
+
+│ │ │ ├── ...
+
 │ │ │ ├── epoch_5/
+
 │ │ │ └── metrics.json
+
 │ │ ├──......
+
 │ ├── results_coling2020/
+
 │ │ ├── model1_alpha_beta/
+
 │ │ │ ├── epoch_1/
-│ │ │ ├── epoch_2/
-│ │ │ ├── epoch_3/
-│ │ │ ├── epoch_4/
+
+│ │ │ ├── ...
+
 │ │ │ ├── epoch_5/
+
 │ │ │ └── metrics.json
+
 │ │ ├──......
+
 │ ├── results_zalo2021/
+
 │ │ ├── model1_alpha_beta/
+
 │ │ │ ├── epoch_1/
-│ │ │ ├── epoch_2/
-│ │ │ ├── epoch_3/
-│ │ │ ├── epoch_4/
+
+│ │ │ ├── ...
+
 │ │ │ ├── epoch_5/
+
 │ │ │ └── metrics.json
+
 │ │ ├──......
+
 ├── custom_loss.py
+
 ├── fine_tune_model_vibilaw.py
+
 ├── fine_tune_model_zalo2021.py
+
 ├── fine_tune_model_coling2020.py
+
 └── README
 
 
