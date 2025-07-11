@@ -17,38 +17,30 @@ This repository accompanies our article:
 ## Directory Structure
 
 QCATune/
+
 ├── data_preparation/
+
 ├── Raw_data/
+
 ├── Synthetic_data_generation/
+
 ├── data_rag/
 
-│ │ ├── vibilaw/
+│  ├── vibilaw/
 
-│ │ ├── coling2020/
+│  ├── coling2020/
 
-│ │ ├── zalo2021/
+│  ├── zalo2021/
 
 ├── results/
 
-│ ├── results_vibilaw/
+│  ├── results_vibilaw/
 
-│ │ ├── model1_alpha_beta/
+│  ├── results_coling2020/
 
-│ │ │ ├── epoch_1/
+│  ├── results_zalo2021/
 
-│ │ │ ├── epoch_2/
-
-│ │ │ ├── ...
-
-│ │ │ ├── epoch_5/
-
-│ │ │ └── metrics.json
-
-│ │ ├──......
-
-│ ├── results_coling2020/
-
-│ │ ├── model1_alpha_beta/
+│ │ ├── <model_name>/
 
 │ │ │ ├── epoch_1/
 
@@ -57,22 +49,6 @@ QCATune/
 │ │ │ ├── epoch_5/
 
 │ │ │ └── metrics.json
-
-│ │ ├──......
-
-│ ├── results_zalo2021/
-
-│ │ ├── model1_alpha_beta/
-
-│ │ │ ├── epoch_1/
-
-│ │ │ ├── ...
-
-│ │ │ ├── epoch_5/
-
-│ │ │ └── metrics.json
-
-│ │ ├──......
 
 ├── custom_loss.py
 
