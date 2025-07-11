@@ -9,7 +9,7 @@ Legal document retrieval is a complex and essential task within the legal domain
 This repository accompanies our article:
 
 > **A fine-tuning framework based on question, context, and answer relationships for enhancing legal information retrieval**  
-> _Engineering Applications of Artificial Intelligence_, 132 (2025) 111570  
+> _Engineering Applications of Artificial Intelligence_, 159 (2025) 111570  
 > https://doi.org/10.1016/j.engappai.2025.111570
 
 ## Directory Structure
