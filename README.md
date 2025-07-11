@@ -17,13 +17,9 @@ This repository accompanies our article:
 ## Directory Structure
 
 QCATune/
-
 ├── data_preparation/
-
 ├── Raw_data/
-
 ├── Synthetic_data_generation/
-
 ├── data_rag/
 
 │ │ ├── vibilaw/
