@@ -6,6 +6,8 @@
 ## 📄 About the Paper  
 Legal document retrieval is a complex and essential task within the legal domain, requiring the extraction of relevant legal documents based on specific questions. The complexity of legal texts, along with the high level of comprehension required, poses significant challenges. These challenges are particularly pronounced in low-resource languages and specialized domains, where data scarcity and linguistic nuances impede effective retrieval. 
 
+To address these issues, we introduce a fine-tuning framework based on the relationships between questions, context, and answers (QCATune). This framework proposes two approaches: the first is fine-tuning based on question-context and question–answer relationships, and the second extends this by also incorporating answer-context relationships.
+
 This repository accompanies our article:
 
 > **A fine-tuning framework based on question, context, and answer relationships for enhancing legal information retrieval**  
